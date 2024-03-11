@@ -1,0 +1,19 @@
+html {
+    font: size 22px;
+    background-color: #3c3b3b;
+}
+
+body {
+    color: whitesmoke;
+    font-size: medium;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+}  
+
+p {
+    background-color: black;
+    font-size: 24px;
+}
